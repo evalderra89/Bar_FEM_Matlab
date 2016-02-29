@@ -1,0 +1,12 @@
+$Nodes
+2
+$location_x1_x2_dof_x1_x2
+0 10 1 0
+$Elements
+1
+$Ni_Nj_A_E
+1 2 2 10e6
+$Forces
+1
+$Nodes_Fh
+2 8000.0
